@@ -18,6 +18,7 @@ const countries = {
     // "de-DE": "German",
     // "dv-MV": "Maldivian",
     // "el-GR": "Greek",
+    // "en-GB": "English",
     // "es-ES": "Spanish",
     // "et-EE": "Estonian",
     // "eu-ES": "Basque",
@@ -94,7 +95,7 @@ const countries = {
     // "wo-SN": "Wolof",
     // "xh-ZA": "Xhosa",
     // "yi-YD": "Yiddish",
-    // "zu-ZA": "Zulu",
+    // "zu-ZA": "Zulu"
     "yo-NE": "igala",
-    "en-GB": "English",
+     "en-GB": "English"
 }
